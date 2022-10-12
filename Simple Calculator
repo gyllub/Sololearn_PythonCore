@@ -1,0 +1,2 @@
+#Write a program to take two integers as input and output their sum.
+print(int(input())+int(input()))
